@@ -1,0 +1,9 @@
+venv/
+.idea/
+*.log
+*.jpg
+*.jpeg
+*.png
+input/
+output/
+
