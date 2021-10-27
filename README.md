@@ -6,7 +6,7 @@ readme is WIP
 
 add info about pdunite: https://stackoverflow.com/questions/2507766/merge-convert-multiple-pdf-files-into-one-pdf
 
-update here:
+update here: https://github.com/lgg/jpg2pd
 
 ---
 
